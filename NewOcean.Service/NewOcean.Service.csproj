@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewOcean.Core\NewOcean.Core.csproj" />
+    <ProjectReference Include="..\NewOcean.Data.Dto\NewOcean.Data.Dto.csproj" />
+    <ProjectReference Include="..\NewOcean.Data.Redis\NewOcean.Data.Redis.csproj" />
+    <ProjectReference Include="..\NewOcean.Domain\NewOcean.Domain.csproj" />
+    <ProjectReference Include="..\NewOcean.Core\NewOcean.Core.csproj" />
+    <ProjectReference Include="..\NewOcean.Data.Dto\NewOcean.Data.Dto.csproj" />
+    <ProjectReference Include="..\NewOcean.Data.Redis\NewOcean.Data.Redis.csproj" />
+    <ProjectReference Include="..\NewOcean.Domain\NewOcean.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

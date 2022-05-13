@@ -1,0 +1,23 @@
+D:\Cá nhân\BE\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.deps.json
+D:\Cá nhân\BE\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.dll
+D:\Cá nhân\BE\NewOcean.Common\bin\Debug\net5.0\ref\NewOcean.Common.dll
+D:\Cá nhân\BE\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.pdb
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.AssemblyInfoInputs.cache
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.AssemblyInfo.cs
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.csproj.CoreCompileInputs.cache
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.dll
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\ref\NewOcean.Common.dll
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.pdb
+D:\Cá nhân\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.csproj.AssemblyReference.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.deps.json
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\bin\Debug\net5.0\ref\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.AssemblyInfoInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.AssemblyInfo.cs
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.csproj.CoreCompileInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\ref\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.pdb

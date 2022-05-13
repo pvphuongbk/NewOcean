@@ -1,0 +1,524 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj",
+        "projectName": "NewOcean.Common",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+        "projectName": "NewOcean.Core",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
+        "projectName": "NewOcean.Data.Dto",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
+        "projectName": "NewOcean.Data.Redis",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+        "projectName": "NewOcean.Data.SqlServer",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj",
+        "projectName": "NewOcean.Domain",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj",
+        "projectName": "NewOcean.Service",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
+              },
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

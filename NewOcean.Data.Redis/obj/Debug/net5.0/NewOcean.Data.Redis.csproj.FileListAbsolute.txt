@@ -1,0 +1,38 @@
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.csproj.AssemblyReference.cache
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.AssemblyInfoInputs.cache
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.AssemblyInfo.cs
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.csproj.CoreCompileInputs.cache
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Redis.deps.json
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Redis.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\ref\NewOcean.Data.Redis.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Redis.pdb
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Common.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Dto.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.SqlServer.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Dto.pdb
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.SqlServer.pdb
+D:\Cá nhân\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Common.pdb
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.csproj.CopyComplete
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\ref\NewOcean.Data.Redis.dll
+D:\Cá nhân\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Redis.deps.json
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Redis.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\ref\NewOcean.Data.Redis.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Redis.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Dto.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.SqlServer.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.Dto.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Data.SqlServer.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\bin\Debug\net5.0\NewOcean.Common.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.csproj.AssemblyReference.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.AssemblyInfoInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.AssemblyInfo.cs
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.csproj.CoreCompileInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.csproj.CopyComplete
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\ref\NewOcean.Data.Redis.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.Redis\obj\Debug\net5.0\NewOcean.Data.Redis.pdb

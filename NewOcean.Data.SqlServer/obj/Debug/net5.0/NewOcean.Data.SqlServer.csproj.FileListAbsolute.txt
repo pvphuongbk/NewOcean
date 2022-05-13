@@ -1,0 +1,36 @@
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.csproj.AssemblyReference.cache
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.AssemblyInfoInputs.cache
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.AssemblyInfo.cs
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.csproj.CoreCompileInputs.cache
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.deps.json
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.runtimeconfig.json
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.runtimeconfig.dev.json
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.dll
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\ref\NewOcean.Data.SqlServer.dll
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.pdb
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Common.dll
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Common.pdb
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.csproj.CopyComplete
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.dll
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\ref\NewOcean.Data.SqlServer.dll
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.pdb
+D:\Cá nhân\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.genruntimeconfig.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.deps.json
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.runtimeconfig.json
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.runtimeconfig.dev.json
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\ref\NewOcean.Data.SqlServer.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Data.SqlServer.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\bin\Debug\net5.0\NewOcean.Common.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.csproj.AssemblyReference.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.AssemblyInfo.cs
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.csproj.CopyComplete
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\ref\NewOcean.Data.SqlServer.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Data.SqlServer\obj\Debug\net5.0\NewOcean.Data.SqlServer.genruntimeconfig.cache

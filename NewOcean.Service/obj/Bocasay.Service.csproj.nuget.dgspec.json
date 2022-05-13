@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cá nhân\\BE\\NewOcean.Service\\Bocasay.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Cá nhân\\BE\\NewOcean.Service\\Bocasay.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cá nhân\\BE\\NewOcean.Service\\Bocasay.Service.csproj",
+        "projectName": "Bocasay.Service",
+        "projectPath": "D:\\Cá nhân\\BE\\NewOcean.Service\\Bocasay.Service.csproj",
+        "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
+        "outputPath": "D:\\Cá nhân\\BE\\NewOcean.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Cá nhân\\BE\\Bocasay.Core\\Bocasay.Core.csproj": {
+                "projectPath": "D:\\Cá nhân\\BE\\Bocasay.Core\\Bocasay.Core.csproj"
+              },
+              "D:\\Cá nhân\\BE\\Bocasay.Data.Dto\\Bocasay.Data.Dto.csproj": {
+                "projectPath": "D:\\Cá nhân\\BE\\Bocasay.Data.Dto\\Bocasay.Data.Dto.csproj"
+              },
+              "D:\\Cá nhân\\BE\\Bocasay.Data.Redis\\Bocasay.Data.Redis.csproj": {
+                "projectPath": "D:\\Cá nhân\\BE\\Bocasay.Data.Redis\\Bocasay.Data.Redis.csproj"
+              },
+              "D:\\Cá nhân\\BE\\Bocasay.Domain\\Bocasay.Domain.csproj": {
+                "projectPath": "D:\\Cá nhân\\BE\\Bocasay.Domain\\Bocasay.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

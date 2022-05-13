@@ -1,0 +1,12 @@
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\bin\Debug\net5.0\Bocasay.Core.deps.json
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\bin\Debug\net5.0\Bocasay.Core.dll
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\bin\Debug\net5.0\ref\Bocasay.Core.dll
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\bin\Debug\net5.0\Bocasay.Core.pdb
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.csproj.AssemblyReference.cache
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.AssemblyInfoInputs.cache
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.AssemblyInfo.cs
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.csproj.CoreCompileInputs.cache
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.dll
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\ref\Bocasay.Core.dll
+D:\Cá nhân\Bocasay\BE\Bocasay.Core\obj\Debug\net5.0\Bocasay.Core.pdb

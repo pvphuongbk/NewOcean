@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1eaf34c2-963a-4498-b881-f6c5057d62e6": {
+      "ProjectGuid": "1eaf34c2-963a-4498-b881-f6c5057d62e6",
+      "DisplayName": "Bocasay.Api",
+      "ColorIndex": 0
+    },
+    "f265b221-1d89-4486-8cf4-d77983d0751d": {
+      "ProjectGuid": "f265b221-1d89-4486-8cf4-d77983d0751d",
+      "DisplayName": "Bocasay.Service",
+      "ColorIndex": 1
+    },
+    "a8c596a5-53bb-42ba-9740-32f4d52cee61": {
+      "ProjectGuid": "a8c596a5-53bb-42ba-9740-32f4d52cee61",
+      "DisplayName": "Bocasay.Domain",
+      "ColorIndex": 2
+    },
+    "5f0f45ac-0893-4344-8de2-c29426df0765": {
+      "ProjectGuid": "5f0f45ac-0893-4344-8de2-c29426df0765",
+      "DisplayName": "Bocasay.Common",
+      "ColorIndex": 3
+    },
+    "05a6e807-ef48-44e8-82f7-553a0c9bdb25": {
+      "ProjectGuid": "05a6e807-ef48-44e8-82f7-553a0c9bdb25",
+      "DisplayName": "Bocasay.Data.Dto",
+      "ColorIndex": 4
+    },
+    "06c391de-44eb-4a01-9066-c2927fb9a79d": {
+      "ProjectGuid": "06c391de-44eb-4a01-9066-c2927fb9a79d",
+      "DisplayName": "Bocasay.Core",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68863c50-aac3-4901-a782-47f38f608cfb": {
+      "ProjectGuid": "68863c50-aac3-4901-a782-47f38f608cfb",
+      "DisplayName": "Bocasay.Data.Redis",
+      "ColorIndex": 6
+    },
+    "c027f538-c585-438b-ae6c-df302648a665": {
+      "ProjectGuid": "c027f538-c585-438b-ae6c-df302648a665",
+      "DisplayName": "Bocasay.Data.JsonFile",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

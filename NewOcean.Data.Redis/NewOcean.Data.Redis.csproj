@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewOcean.Data.Dto\NewOcean.Data.Dto.csproj" />
+    <ProjectReference Include="..\NewOcean.Data.SqlServer\NewOcean.Data.SqlServer.csproj" />
+    <ProjectReference Include="..\NewOcean.Data.Dto\NewOcean.Data.Dto.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="StackExchange.Redis" Version="2.2.88" />
+  </ItemGroup>
+
+</Project>

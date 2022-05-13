@@ -1,0 +1,23 @@
+D:\Cá nhân\BE\NewOcean.Core\bin\Debug\net5.0\NewOcean.Core.deps.json
+D:\Cá nhân\BE\NewOcean.Core\bin\Debug\net5.0\NewOcean.Core.dll
+D:\Cá nhân\BE\NewOcean.Core\bin\Debug\net5.0\ref\NewOcean.Core.dll
+D:\Cá nhân\BE\NewOcean.Core\bin\Debug\net5.0\NewOcean.Core.pdb
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.AssemblyInfoInputs.cache
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.AssemblyInfo.cs
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.csproj.CoreCompileInputs.cache
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.dll
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\ref\NewOcean.Core.dll
+D:\Cá nhân\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\bin\Debug\net5.0\NewOcean.Core.deps.json
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\bin\Debug\net5.0\NewOcean.Core.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\bin\Debug\net5.0\ref\NewOcean.Core.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\bin\Debug\net5.0\NewOcean.Core.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.AssemblyInfoInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.AssemblyInfo.cs
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.csproj.CoreCompileInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\ref\NewOcean.Core.dll
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.pdb
+C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Core\obj\Debug\net5.0\NewOcean.Core.csproj.AssemblyReference.cache

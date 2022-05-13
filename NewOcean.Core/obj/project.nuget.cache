@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "07xOqyeyn60Cv4clgDRaqr3yjQ8v/4U3oKZ1E7RLpUaiXWZGRiED+1in3GjyLMs3RcMaUPlphjRePOemvHb5Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrphu\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
+    "C:\\Users\\mrphu\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

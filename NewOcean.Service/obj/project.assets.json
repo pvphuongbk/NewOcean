@@ -5987,11 +5987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj",
+      "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj",
       "projectName": "NewOcean.Service",
-      "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj",
+      "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj",
       "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\obj\\",
+      "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6011,17 +6011,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
-              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj"
+            "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {
+              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj"
             },
-            "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
-              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+            "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
             },
-            "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
-              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
+            "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
             },
-            "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj": {
-              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj"
+            "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj": {
+              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj"
             }
           }
         }

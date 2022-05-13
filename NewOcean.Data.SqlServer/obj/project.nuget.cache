@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1wNDgvLdNEX1qYsFHbrfcpf7oB5uq9Wx/VfKDGiTk+Ib3/YqWLXItn6GWKFp/DEnjIZrEBYVVxG38J22835aRQ==",
+  "dgSpecHash": "Grud0l4i9IRnDQQNT9r1HGc83+hdbrCNKc7XEtRtCIK58oeFVPKj/kijrKre6eRYXiDBeTFFfO1vEft6v68iAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrphu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mrphu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/drfObesROSKmy5bqPjZ+te8h9fSNbF+qiE32UkhHztsf+YV93EccaCS+zQiqaWpBCAeKY4x3qXqOB/VLTlqBA==",
+  "dgSpecHash": "nGtRKFE8L/HRoamYBnwntLQonxsCXFnm+8to4Q1O2qsbcco3gLchwOgXi4Z3YV2ePT1c9ZUE6XncoLc45K8gew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrphu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mrphu\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",

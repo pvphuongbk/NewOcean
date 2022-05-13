@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3DdfiqGzl5Fgqv/VWupNL1PEZax6Qp300fjss8j+mQgoJE1lMeFdorv7iRnIYt8ypQITipw9ZYfcnztn8XhLeg==",
+  "dgSpecHash": "xqMOKCDBwLXzTSXzBse3QGFXBthJiVCeqWOM4YtCOiUE72/EvVHFAUuzWyIoKLtf00wqHbsAqihqogyWWHPdSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
+  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrphu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mrphu\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

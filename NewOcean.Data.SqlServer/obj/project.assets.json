@@ -6034,11 +6034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+      "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
       "projectName": "NewOcean.Data.SqlServer",
-      "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+      "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
       "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\obj\\",
+      "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6058,8 +6058,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
-              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj"
+            "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj": {
+              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj"
             }
           }
         }

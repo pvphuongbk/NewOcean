@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Api\\NewOcean.Api.csproj": {}
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Api\\NewOcean.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Api\\NewOcean.Api.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Api\\NewOcean.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Api\\NewOcean.Api.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Api\\NewOcean.Api.csproj",
         "projectName": "NewOcean.Api",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Api\\NewOcean.Api.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Api\\NewOcean.Api.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Api\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,17 +31,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj",
         "projectName": "NewOcean.Common",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj",
         "projectName": "NewOcean.Core",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -235,14 +235,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
         "projectName": "NewOcean.Data.Dto",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -262,8 +262,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj"
               }
             }
           }
@@ -296,14 +296,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
         "projectName": "NewOcean.Data.Redis",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -323,11 +323,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj"
               }
             }
           }
@@ -370,14 +370,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
         "projectName": "NewOcean.Data.SqlServer",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -397,8 +397,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj"
               }
             }
           }
@@ -461,14 +461,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj",
         "projectName": "NewOcean.Domain",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -488,17 +488,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.SqlServer\\NewOcean.Data.SqlServer.csproj"
               }
             }
           }
@@ -537,14 +537,14 @@
         }
       }
     },
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj",
         "projectName": "NewOcean.Service",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\NewOcean.Service.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\NewOcean.Service.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Service\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -564,17 +564,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Redis\\NewOcean.Data.Redis.csproj"
               },
-              "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj": {
-                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Domain\\NewOcean.Domain.csproj"
+              "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj": {
+                "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Domain\\NewOcean.Domain.csproj"
               }
             }
           }

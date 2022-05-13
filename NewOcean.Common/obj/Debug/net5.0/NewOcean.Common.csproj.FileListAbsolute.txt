@@ -21,3 +21,15 @@ C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Com
 C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.dll
 C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\ref\NewOcean.Common.dll
 C:\Users\mrphu\OneDrive\Desktop\BE\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.pdb
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.deps.json
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\bin\Debug\net5.0\ref\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\bin\Debug\net5.0\NewOcean.Common.pdb
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.csproj.AssemblyReference.cache
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.AssemblyInfoInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.AssemblyInfo.cs
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.csproj.CoreCompileInputs.cache
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\ref\NewOcean.Common.dll
+C:\Users\mrphu\OneDrive\Desktop\NewOcean\NewOcean.Common\obj\Debug\net5.0\NewOcean.Common.pdb

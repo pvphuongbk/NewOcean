@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {}
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj": {
+    "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj",
         "projectName": "NewOcean.Core",
-        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\NewOcean.Core.csproj",
+        "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\NewOcean.Core.csproj",
         "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Core\\obj\\",
+        "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

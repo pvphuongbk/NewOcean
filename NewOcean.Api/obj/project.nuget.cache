@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4h5TkGp5S9Ax4OCOuNct/LQc5tjJhJjHq16O0KnsjYlv4GAj4o6Qw23MYM23TZFIsiasdBy7bo3DSvFdtEPXJQ==",
+  "dgSpecHash": "OidbVscIknv+O5iok0y2ZAqmUz1FZKqjz/jkBLTIDDMOVISpXk07cyQY6tnYQnDIU/AWRsQhTmpGD4k0Daj1wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Api\\NewOcean.Api.csproj",
+  "projectFilePath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Api\\NewOcean.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrphu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mrphu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

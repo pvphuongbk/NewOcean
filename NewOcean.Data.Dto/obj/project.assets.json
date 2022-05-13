@@ -551,11 +551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
+      "projectUniqueName": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
       "projectName": "NewOcean.Data.Dto",
-      "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
+      "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\NewOcean.Data.Dto.csproj",
       "packagesPath": "C:\\Users\\mrphu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Data.Dto\\obj\\",
+      "outputPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Data.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -575,8 +575,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj": {
-              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\BE\\NewOcean.Common\\NewOcean.Common.csproj"
+            "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj": {
+              "projectPath": "C:\\Users\\mrphu\\OneDrive\\Desktop\\NewOcean\\NewOcean.Common\\NewOcean.Common.csproj"
             }
           }
         }
